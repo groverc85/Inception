@@ -8,3 +8,6 @@ https://vimeo.com/205409380
 ### Game play video
 https://vimeo.com/205409391
 
+### Package download link(too large for Github upload)
+https://drive.google.com/open?id=0B8pACzOH-xRKbHBEdG1naUtIdG8
+
